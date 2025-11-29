@@ -65,6 +65,7 @@ function App() {
       <div className="container">
         <header className="app-header">
           <h1>Voice Recorder</h1>
+          <p>Developed By Aynal Haque</p>
           <p className="subtitle">Record, play, and save your audio notes</p>
         </header>
 
